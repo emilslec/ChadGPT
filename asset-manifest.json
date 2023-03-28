@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ChadGPT/static/css/main.4aa6ae89.css",
-    "main.js": "/ChadGPT/static/js/main.768da106.js",
+    "main.js": "/ChadGPT/static/js/main.5511c89c.js",
     "static/js/787.e1833b8c.chunk.js": "/ChadGPT/static/js/787.e1833b8c.chunk.js",
     "index.html": "/ChadGPT/index.html",
     "main.4aa6ae89.css.map": "/ChadGPT/static/css/main.4aa6ae89.css.map",
-    "main.768da106.js.map": "/ChadGPT/static/js/main.768da106.js.map",
+    "main.5511c89c.js.map": "/ChadGPT/static/js/main.5511c89c.js.map",
     "787.e1833b8c.chunk.js.map": "/ChadGPT/static/js/787.e1833b8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4aa6ae89.css",
-    "static/js/main.768da106.js"
+    "static/js/main.5511c89c.js"
   ]
 }
